@@ -11,7 +11,7 @@ This program is used in the article:
 Monte Carlo–based model for the extraction of oil from oil-water mixtures using wetting and surface acoustic waves
 J. M. Marcos et al., *Phys. Rev. E* 112, 025502 (2025) 
  
-DOI: https://doi.org/10.1103/cckb-5m6h
+DOI: https://doi.org/10.1103/cckb-5m6h  
 arXiv: https://arxiv.org/abs/2504.05777
 
 ## 🛠️ Technologies
